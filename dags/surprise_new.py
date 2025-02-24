@@ -29,6 +29,7 @@ def surprise_new():
             result += charset[index]
 
         print(f"Get your free certification https://academy.astronomer.io/astronomer-certified-apache-airflow-core-exam?pc={result}")
+        print(f"This is the new script to deploy")
 
     look_at_my_logs()
 
